@@ -6,7 +6,7 @@ A collaborative filtering-based book recommendation system built using Flask for
 
 ## 🔍 Overview
 
-This Book Recommendation System provides personalized book suggestions using collaborative filtering techniques. It analyzes user behavior and preferences to recommend books similar users have liked.
+This Book Recommendation System provides personalized book suggestions using collaborative filtering techniques. It analyzes user behavior and preferences to recommend books similar users have liked. The two html file should be in a folder named 'Template'.
 
 ---
 
